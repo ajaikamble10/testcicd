@@ -11,7 +11,7 @@ public class TestprojectApplication {
 
 	@GetMapping("/")
 	public String getMessage(){
-		return "Welcome to Spring Boot.";
+		return "Welcome to Spring Boot Test.";
 	}
 
 	public static void main(String[] args) {
